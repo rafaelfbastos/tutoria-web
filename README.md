@@ -3,7 +3,8 @@
 ## Comandos git
 
 
-``` git init
+``` 
+    git init
     git add .
     git commit -m "nome do comit"
 ```
